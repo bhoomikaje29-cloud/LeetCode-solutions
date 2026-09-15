@@ -1,7 +1,7 @@
 LeetCode Solutions
 Bhoomika J E
 R25EF051
-Personal LeetCode Practice Log
+Personal LeetCode Practice Log-part B25GE0101 portfolio
 
 Table of Contents
 
