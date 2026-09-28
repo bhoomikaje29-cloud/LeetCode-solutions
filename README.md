@@ -1,6 +1,8 @@
 LeetCode Solutions
-Bhoomika J E
-R25EF051
+Name : Bhoomika J E
+SRN : R25EF051
+
+
 Personal LeetCode Practice Log-part B25GE0101 portfolio
 
 Table of Contents
